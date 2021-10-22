@@ -7,3 +7,6 @@ https://www.youtube.com/user/RJMarksIII/videos
 
 # MLP Lab
 https://www.youtube.com/channel/UCLGwlAK4v2j35Ie8dbSDo4Q/videos
+
+# Subbarao Kambhampati
+https://www.youtube.com/c/subbarao2z2/playlists
