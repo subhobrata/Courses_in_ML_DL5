@@ -13,3 +13,10 @@ https://www.youtube.com/channel/UCLGwlAK4v2j35Ie8dbSDo4Q/videos
 
 # Subbarao Kambhampati
 https://www.youtube.com/c/subbarao2z2/playlists
+
+
+# Julien Mairal
+https://www.youtube.com/channel/UCotztBOmGVl9pPGIN4YqcRw/videos
+
+# Reproducing kernel Hilbert spaces in Machine Learning
+http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html
