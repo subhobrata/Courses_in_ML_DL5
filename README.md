@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Stanley Chan
+https://www.youtube.com/channel/UCXP3hNE5VrquhnptOJOPNag/playlists
+
 
 # Centre de recherches mathématiques - CRM
 https://www.youtube.com/c/Centrederecherchesmath%C3%A9matiquesCRM/playlists
