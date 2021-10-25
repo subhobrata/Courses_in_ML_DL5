@@ -2,6 +2,10 @@
 Courses_in_ML_DL5
 
 
+# Centre de recherches mathématiques - CRM
+https://www.youtube.com/c/Centrederecherchesmath%C3%A9matiquesCRM/playlists
+
+
 # Steven Skiena
 https://www.youtube.com/user/StevenSkiena/playlists
 
