@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Lectures on Linear algebra and applications
+https://www.youtube.com/channel/UCu343cR_UtJsKELIBluUXWg/playlists
+
 # Visually Explained
 https://www.youtube.com/c/BachirElKhadir/videos
 
