@@ -1,6 +1,12 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Inside code
+https://www.youtube.com/c/Insidecode/videos
+
+# CCLu Online Learning
+https://www.youtube.com/channel/UC6U6Iqh6qrPhzAlAWUtrizw/playlists
+
 # IISc-SIAM Student Chapter
 https://www.youtube.com/channel/UC1LUlTdRDXV5u3JxZrHtIsQ/videos
 
