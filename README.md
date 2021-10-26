@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# IISc-SIAM Student Chapter
+https://www.youtube.com/channel/UC1LUlTdRDXV5u3JxZrHtIsQ/videos
+
 # Wil van der Aalst
 https://www.youtube.com/user/wilvdaalst/playlists
 
