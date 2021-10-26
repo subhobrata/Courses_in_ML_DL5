@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Applied Regression
+https://www.youtube.com/channel/UCH58k2mWfP18JB4tL7rZCXQ/playlists
+
 # Lakshman Mahto
 https://www.youtube.com/channel/UCjHebnevF2qBc_npduwqxBQ/playlists
 
