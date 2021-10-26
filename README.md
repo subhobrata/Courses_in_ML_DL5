@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Adaptive Agents Laboratory
+https://www.youtube.com/channel/UCTp91O_mEZCZB6sTR5GSAVw/playlists
+
 # Applied Regression
 https://www.youtube.com/channel/UCH58k2mWfP18JB4tL7rZCXQ/playlists
 
