@@ -1,6 +1,12 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Mutual Information
+https://www.youtube.com/c/MutualInformation0/videos
+
+# The Math Coffeeshop
+https://www.youtube.com/channel/UC_u4NYtqTOBMxMJRQjaIjUA/videos
+
 # Stanley Chan
 https://www.youtube.com/channel/UCXP3hNE5VrquhnptOJOPNag/playlists
 
