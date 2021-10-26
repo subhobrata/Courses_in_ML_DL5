@@ -7,6 +7,9 @@ https://www.youtube.com/c/MutualInformation0/videos
 # The Math Coffeeshop
 https://www.youtube.com/channel/UC_u4NYtqTOBMxMJRQjaIjUA/videos
 
+# statsandscience
+https://www.youtube.com/channel/UCRR8OEJ0rbN8BvXQFSD7y6w/videos
+
 # Stanley Chan
 https://www.youtube.com/channel/UCXP3hNE5VrquhnptOJOPNag/playlists
 
