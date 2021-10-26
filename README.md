@@ -1,6 +1,13 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# CB2030
+https://www.youtube.com/watch?v=-Fg_P5ANb0s&t=1s
+https://github.com/statisticalbiotechnology/cb2030
+
+# Adam Gaweda
+https://www.youtube.com/c/AMGaweda/playlists
+
 # Lectures on Linear algebra and applications
 https://www.youtube.com/channel/UCu343cR_UtJsKELIBluUXWg/playlists
 
