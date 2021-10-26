@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Wil van der Aalst
+https://www.youtube.com/user/wilvdaalst/playlists
+
 # Adaptive Agents Laboratory
 https://www.youtube.com/channel/UCTp91O_mEZCZB6sTR5GSAVw/playlists
 
