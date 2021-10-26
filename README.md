@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Visually Explained
+https://www.youtube.com/c/BachirElKhadir/videos
+
 # Mutual Information
 https://www.youtube.com/c/MutualInformation0/videos
 
