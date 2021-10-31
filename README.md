@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Advanced Linear Algebra
+https://www.youtube.com/channel/UCx8BSplARVY8pHKz0SjkMUQ
+
 # whollyholic
 https://www.youtube.com/channel/UComYuVoXhsH7vcpvZKlXiqw
 
