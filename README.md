@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Data Academy
+https://www.youtube.com/watch?v=cOHrT9drFFI&list=PLsugXK9b1w1lRzFHm8Z1XXIE8TZBLbjdp
+
 # Advanced Linear Algebra
 https://www.youtube.com/channel/UCx8BSplARVY8pHKz0SjkMUQ
 
