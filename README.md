@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://ml-course.github.io/master/
+
 # Data Academy
 https://www.youtube.com/watch?v=cOHrT9drFFI&list=PLsugXK9b1w1lRzFHm8Z1XXIE8TZBLbjdp
 
