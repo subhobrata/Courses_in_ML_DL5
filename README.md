@@ -41,6 +41,9 @@ https://www.youtube.com/channel/UCH58k2mWfP18JB4tL7rZCXQ/playlists
 # Lakshman Mahto
 https://www.youtube.com/channel/UCjHebnevF2qBc_npduwqxBQ/playlists
 
+# Miles Chen
+https://www.youtube.com/c/MilesChen123/playlists
+
 # CB2030
 https://www.youtube.com/watch?v=-Fg_P5ANb0s&t=1s
 https://github.com/statisticalbiotechnology/cb2030
