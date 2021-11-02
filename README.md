@@ -23,6 +23,9 @@ https://www.youtube.com/channel/UC6U6Iqh6qrPhzAlAWUtrizw/playlists
 # Ricardo Calix
 https://www.youtube.com/channel/UCKRgi-HJDEq0a3nhlG2nQvg/videos
 
+# Dorien Herremans
+https://www.youtube.com/c/DorienHerremans/playlists
+
 # IISc-SIAM Student Chapter
 https://www.youtube.com/channel/UC1LUlTdRDXV5u3JxZrHtIsQ/videos
 
