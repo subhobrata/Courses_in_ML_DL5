@@ -1,6 +1,10 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Geoff Gordon
+https://canvas.cmu.edu/courses/603/assignments/syllabus
+https://www.youtube.com/user/professorgeoff/videos
+
 #
 https://ml-course.github.io/master/
 
