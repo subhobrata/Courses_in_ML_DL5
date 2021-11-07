@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Statistical Machine Learning
+https://www.aiml.informatik.tu-darmstadt.de/lectures/sml2020sose/index.html
+
 # Geoff Gordon
 https://canvas.cmu.edu/courses/603/assignments/syllabus
 https://www.youtube.com/user/professorgeoff/videos
