@@ -1,6 +1,12 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+https://ml-tutorials.com/
+
+
+# Stefan
+https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt
+
 # Statistical Machine Learning
 https://www.aiml.informatik.tu-darmstadt.de/lectures/sml2020sose/index.html
 
