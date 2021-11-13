@@ -3,6 +3,9 @@ Courses_in_ML_DL5
 
 https://ml-tutorials.com/
 
+#
+https://www.youtube.com/playlist?list=PLYFTuCvd-szRNIMZ69lOfm-rt-TKRZ17K
+
 
 # Stefan
 https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt
