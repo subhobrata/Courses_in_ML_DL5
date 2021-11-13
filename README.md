@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# COMP0088
+https://www.youtube.com/channel/UCro89CYRFPJaNppYFuBqoIA/playlists
+
 https://ml-tutorials.com/
 
 #
