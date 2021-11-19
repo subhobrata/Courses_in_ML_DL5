@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://github.com/rasgointelligence/feature-engineering-tutorials
+
 # COMP0088
 https://www.youtube.com/channel/UCro89CYRFPJaNppYFuBqoIA/playlists
 
