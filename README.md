@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://github.com/ml874/Cracking-the-Data-Science-Interview
+
+#
 https://www.youtube.com/playlist?list=PLOk2cpmAEiU3YgtHRUm58zGkw66nF2NLZ
 
 #
