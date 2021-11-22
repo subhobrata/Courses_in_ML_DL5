@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://www.youtube.com/user/minireference/videos
+
+#
 https://github.com/ml874/Cracking-the-Data-Science-Interview
 
 #
