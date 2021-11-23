@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://github.com/FredAlcantara/AppliedAI
+
+#
 https://course.continualai.org/
 
 #
