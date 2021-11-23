@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://course.continualai.org/
+
+#
 https://www.youtube.com/user/minireference/videos
 
 #
