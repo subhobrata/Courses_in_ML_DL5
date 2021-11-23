@@ -5,6 +5,9 @@ Courses_in_ML_DL5
 https://github.com/AyswaryaS95/AppliedAI/tree/main/applied_ai_all_files
 
 #
+https://github.com/xbresson/CS5242_2021
+
+#
 https://github.com/FredAlcantara/AppliedAI
 
 #
