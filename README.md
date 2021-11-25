@@ -6,6 +6,7 @@ https://github.com/AyswaryaS95/AppliedAI/tree/main/applied_ai_all_files
 
 #
 https://farid.berkeley.edu/downloads/tutorials/learnComputerVision/
+https://farid.berkeley.edu/downloads/tutorials/learnPython/
 
 #
 https://github.com/xbresson/CS5242_2021
