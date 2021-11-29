@@ -15,6 +15,9 @@ https://farid.berkeley.edu/downloads/tutorials/learnPython/
 https://github.com/edyoda/data-science-complete-tutorial
 
 #
+https://oliviergimenez.github.io/bayesian-stats-with-R/
+
+#
 https://github.com/xbresson/CS5242_2021
 
 #
