@@ -12,7 +12,16 @@ https://farid.berkeley.edu/downloads/tutorials/learnComputerVision/
 https://farid.berkeley.edu/downloads/tutorials/learnPython/
 
 #
+https://github.com/edyoda/data-science-complete-tutorial
+
+#
 https://github.com/xbresson/CS5242_2021
+
+#
+https://github.com/khangich/machine-learning-interview
+
+#
+https://www.cs.cmu.edu/~zkolter/course/linalg/
 
 #
 https://github.com/FredAlcantara/AppliedAI
