@@ -8,6 +8,10 @@ https://github.com/AyswaryaS95/AppliedAI/tree/main/applied_ai_all_files
 https://linear.axler.net/LADRvideos.html
 
 #
+https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/mlss21_taipei.pdf
+https://www.youtube.com/playlist?list=PLTHUos8oPSUtq6u_SDc5_BaYiJtiVJA-1
+
+#
 https://farid.berkeley.edu/downloads/tutorials/learnComputerVision/
 https://farid.berkeley.edu/downloads/tutorials/learnPython/
 
