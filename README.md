@@ -7,6 +7,9 @@ https://github.com/AyswaryaS95/AppliedAI/tree/main/applied_ai_all_files
 #
 https://linear.axler.net/LADRvideos.html
 
+#
+https://www.youtube.com/channel/UCT0FMBpBkaq3ZP5pnVzSdiA/playlists
+
 
 #
 https://arthurdouillard.com/deepcourse/
