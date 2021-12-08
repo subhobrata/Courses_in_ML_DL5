@@ -9,6 +9,9 @@ https://github.com/AyswaryaS95/AppliedAI/tree/main/applied_ai_all_files
 https://github.com/gto76/python-cheatsheet
 
 #
+https://lena-voita.github.io/nlp_course.html
+
+#
 https://linear.axler.net/LADRvideos.html
 
 #
