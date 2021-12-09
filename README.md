@@ -4,6 +4,9 @@ Courses_in_ML_DL5
 #
 https://github.com/AyswaryaS95/AppliedAI/tree/main/applied_ai_all_files
 
+#
+http://optimizationprinciplesalgorithms.com/
+
 
 #
 https://github.com/gto76/python-cheatsheet
