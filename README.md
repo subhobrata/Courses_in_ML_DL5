@@ -2,6 +2,10 @@
 Courses_in_ML_DL5
 
 #
+https://mycourses.aalto.fi/course/view.php?id=29632
+https://www.youtube.com/playlist?list=PLxSrejNn6xBDgW5fFrhig8n09veeuUBZr
+
+#
 https://github.com/AyswaryaS95/AppliedAI/tree/main/applied_ai_all_files
 
 #
