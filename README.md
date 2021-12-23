@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Prof. Steven Strogatz at Cornell University in Spring 2021. 
+https://www.youtube.com/watch?v=KZsk8B_z8pI&list=PL5EH0ZJ7V0jV7kMYvPcZ7F9oaf_YAlfbI
+
 #
 https://mycourses.aalto.fi/course/view.php?id=29632
 https://www.youtube.com/playlist?list=PLxSrejNn6xBDgW5fFrhig8n09veeuUBZr
