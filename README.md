@@ -7,6 +7,9 @@ https://medium.com/@neuralthreads
 # Prof. Steven Strogatz at Cornell University in Spring 2021. 
 https://www.youtube.com/watch?v=KZsk8B_z8pI&list=PL5EH0ZJ7V0jV7kMYvPcZ7F9oaf_YAlfbI
 
+# DS_GA 1011 Deep learning for Natural Language Processing
+https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf
+
 #
 https://mycourses.aalto.fi/course/view.php?id=29632
 https://www.youtube.com/playlist?list=PLxSrejNn6xBDgW5fFrhig8n09veeuUBZr
