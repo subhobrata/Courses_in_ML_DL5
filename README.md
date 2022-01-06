@@ -1,6 +1,8 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+https://github.com/MacroAnalyst/Linear_Algebra_With_Python
+
 https://github.com/ThinamXx/MachineLearning_DeepLearning
 https://medium.com/@neuralthreads
 
