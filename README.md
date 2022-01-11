@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# AIPI 540: Deep Learning Applications
+https://github.com/AIPI540/AIPI540-Deep-Learning-Applications
+
 # Daniel Bourke arXiv
 https://www.youtube.com/channel/UCKt-z-AVy7duq6-_N-michg/videos
 
