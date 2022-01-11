@@ -22,6 +22,9 @@ https://github.com/MacroAnalyst/Linear_Algebra_With_Python
 https://github.com/ThinamXx/MachineLearning_DeepLearning
 https://medium.com/@neuralthreads
 
+# COMP590/790: Deep Learning
+https://github.com/craffel/comp790-deep-learning-spring-2022
+
 # Prof. Steven Strogatz at Cornell University in Spring 2021. 
 https://www.youtube.com/watch?v=KZsk8B_z8pI&list=PL5EH0ZJ7V0jV7kMYvPcZ7F9oaf_YAlfbI
 
