@@ -8,6 +8,10 @@ https://www.youtube.com/channel/UCKt-z-AVy7duq6-_N-michg/videos
 https://ai-4-all.org/open-learning/
 https://www.youtube.com/channel/UCvadXthM88NiUdDUp10e2IQ/videos
 
+
+# Laboratory of Applied Research Skoltech-Sberbank
+https://www.youtube.com/channel/UCX6GGajRdBKTEGhPEF9XptA/playlists
+
 https://mattmasten.github.io/bootcamp/
 
 https://github.com/MacroAnalyst/Linear_Algebra_With_Python
