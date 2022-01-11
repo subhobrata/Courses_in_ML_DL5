@@ -4,6 +4,10 @@ Courses_in_ML_DL5
 # Daniel Bourke arXiv
 https://www.youtube.com/channel/UCKt-z-AVy7duq6-_N-michg/videos
 
+# AI4ALL Open Learning Team
+https://ai-4-all.org/open-learning/
+https://www.youtube.com/channel/UCvadXthM88NiUdDUp10e2IQ/videos
+
 https://mattmasten.github.io/bootcamp/
 
 https://github.com/MacroAnalyst/Linear_Algebra_With_Python
