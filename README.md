@@ -1,6 +1,10 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# UMich-ROB-530-public
+https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public
+https://www.youtube.com/watch?v=pH4Pkmey2_E&list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F&index=1&t=0s
+
 https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD
 
 # AIPI 540: Deep Learning Applications
