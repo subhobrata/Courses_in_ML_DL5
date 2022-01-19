@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://www.cse.iitd.ac.in/~srsarangi/courses/2022/col_720_2022/index.html
+
 # Machine learning Serving
 https://eligijus112.github.io/api-book/intro.html
 
