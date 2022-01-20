@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://www.youtube.com/playlist?list=PL18_rB75vx1PkjXnkX1jiqNeNnVCbNGIh
+
+#
 https://www.cse.iitd.ac.in/~srsarangi/courses/2022/col_720_2022/index.html
 
 # Machine learning Serving
