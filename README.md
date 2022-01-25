@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://ucbrise.github.io/cs294-ai-sys-sp22/
+
+#
 https://www.youtube.com/playlist?list=PL18_rB75vx1PkjXnkX1jiqNeNnVCbNGIh
 
 #
