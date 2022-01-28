@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://cs.uwaterloo.ca/~lapchi/cs860/
+
+#
 https://ucbrise.github.io/cs294-ai-sys-sp22/
 
 #
