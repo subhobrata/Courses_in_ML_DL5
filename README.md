@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://github.com/dipanjanS/tensorflow2-crash-course
+
+#
 https://www.cs.ryerson.ca/~kosta/CPS843-W2020/
 
 #
