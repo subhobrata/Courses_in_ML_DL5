@@ -2,6 +2,12 @@
 Courses_in_ML_DL5
 
 #
+https://www.cs.ryerson.ca/~kosta/CPS843-W2020/
+
+#
+https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/
+
+#
 https://cs.uwaterloo.ca/~lapchi/cs860/
 
 #
