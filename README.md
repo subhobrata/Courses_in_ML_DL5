@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Prof. Schniter
+https://www.youtube.com/channel/UC38_LaNUDzCW0XjIEJBS2Lg/videos
+
 #
 https://github.com/dipanjanS/tensorflow2-crash-course
 
