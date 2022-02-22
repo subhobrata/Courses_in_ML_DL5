@@ -1,6 +1,10 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://uvaml1.github.io/
+https://www.youtube.com/channel/UCsJsaq9aZfzW_OcYx45LSVQ/playlists
+
 https://www.youtube.com/channel/UCezT5wE7O4v4SPWgGeZneJg/playlists
 https://www.youtube.com/c/CFIIITMadras/playlists
 
