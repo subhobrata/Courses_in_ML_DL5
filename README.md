@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+https://www.youtube.com/channel/UCezT5wE7O4v4SPWgGeZneJg/playlists
+https://www.youtube.com/c/CFIIITMadras/playlists
+
 # Prof. Schniter
 https://www.youtube.com/channel/UC38_LaNUDzCW0XjIEJBS2Lg/videos
 
