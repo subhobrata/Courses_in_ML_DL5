@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://optimization.cbe.cornell.edu/index.php?title=Main_Page
+
+#
 https://uvaml1.github.io/
 https://www.youtube.com/channel/UCsJsaq9aZfzW_OcYx45LSVQ/playlists
 
