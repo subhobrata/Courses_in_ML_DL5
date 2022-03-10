@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://stanford-cs329s.github.io/syllabus.html
+
+#
 https://optimization.cbe.cornell.edu/index.php?title=Main_Page
 
 #
