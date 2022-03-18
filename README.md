@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://web.stanford.edu/class/linguist130a/2022/
+
+#
 https://stanford-cs329s.github.io/syllabus.html
 
 #
