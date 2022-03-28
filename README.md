@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+https://ai.science/
+https://www.youtube.com/c/AISocraticCirclesAISC/videos
+
 https://mlu-explain.github.io/precision-recall/
 
 #
