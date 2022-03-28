@@ -1,6 +1,11 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+
+
+# Erik Bekkers
+https://www.youtube.com/channel/UCsJsaq9aZfzW_OcYx45LSVQ/playlists
+
 https://ai.science/
 https://www.youtube.com/c/AISocraticCirclesAISC/videos
 
