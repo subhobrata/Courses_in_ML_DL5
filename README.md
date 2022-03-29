@@ -3,6 +3,7 @@ Courses_in_ML_DL5
 
 https://explainshell.com/
 
+https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix
 
 # Erik Bekkers
 https://www.youtube.com/channel/UCsJsaq9aZfzW_OcYx45LSVQ/playlists
