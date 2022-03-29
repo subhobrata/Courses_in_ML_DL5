@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+An ancient Indian memorization secret!
+https://www.youtube.com/watch?v=3sxhlHrUMog
+
 https://explainshell.com/
 
 https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix
