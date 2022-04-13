@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=3sxhlHrUMog
 
 https://explainshell.com/
 
+#
+https://lakens.github.io/statistical_inferences/
+
 https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix
 
 # Erik Bekkers
