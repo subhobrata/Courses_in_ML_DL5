@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=3sxhlHrUMog
 https://explainshell.com/
 
 #
+http://web.mit.edu/dimitrib/www/RLbook.html
+
+#
 https://lakens.github.io/statistical_inferences/
 
 https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix
