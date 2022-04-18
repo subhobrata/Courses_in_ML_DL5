@@ -9,6 +9,9 @@ https://explainshell.com/
 #
 http://web.mit.edu/dimitrib/www/RLbook.html
 
+# Rookies Dojo
+https://www.youtube.com/channel/UC5gM-GHriu3qw7kKK1wl8zA/playlists
+
 #
 https://lakens.github.io/statistical_inferences/
 
