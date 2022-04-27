@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=3sxhlHrUMog
 
 https://explainshell.com/
 
+# Look Wei
+https://www.youtube.com/channel/UCcWc5_rFLDa67oxsFA3YHmg/playlists
+
 #
 http://web.mit.edu/dimitrib/www/RLbook.html
 
