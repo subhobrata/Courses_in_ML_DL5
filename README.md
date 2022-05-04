@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=3sxhlHrUMog
 
 https://explainshell.com/
 
+#
+http://nsm.iitm.ac.in/cse/#all-services
+
 # Look Wei
 https://www.youtube.com/channel/UCcWc5_rFLDa67oxsFA3YHmg/playlists
 
