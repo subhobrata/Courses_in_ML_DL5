@@ -12,6 +12,9 @@ https://www.youtube.com/channel/UCcWc5_rFLDa67oxsFA3YHmg/playlists
 #
 http://web.mit.edu/dimitrib/www/RLbook.html
 
+#
+https://www.stat.cmu.edu/~larry/=sml/
+
 # Rookies Dojo
 https://www.youtube.com/channel/UC5gM-GHriu3qw7kKK1wl8zA/playlists
 
