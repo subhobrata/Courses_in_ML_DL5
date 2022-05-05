@@ -9,6 +9,9 @@ https://explainshell.com/
 #
 http://nsm.iitm.ac.in/cse/#all-services
 
+#
+http://people.eecs.berkeley.edu/~yima/courses/CS294-Spring2022/
+
 # Look Wei
 https://www.youtube.com/channel/UCcWc5_rFLDa67oxsFA3YHmg/playlists
 
