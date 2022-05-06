@@ -21,6 +21,10 @@ http://web.mit.edu/dimitrib/www/RLbook.html
 #
 https://www.stat.cmu.edu/~larry/=sml/
 
+#
+https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/
+https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/
+
 # Rookies Dojo
 https://www.youtube.com/channel/UC5gM-GHriu3qw7kKK1wl8zA/playlists
 
