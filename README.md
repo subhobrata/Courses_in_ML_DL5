@@ -7,6 +7,10 @@ https://www.youtube.com/watch?v=3sxhlHrUMog
 https://explainshell.com/
 
 #
+https://www.youtube.com/watch?v=pH4Pkmey2_E&list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F
+https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public
+
+#
 http://nsm.iitm.ac.in/cse/#all-services
 
 #
