@@ -1,6 +1,10 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://projects.iq.harvard.edu/stat110/home
+https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
 An ancient Indian memorization secret!
 https://www.youtube.com/watch?v=3sxhlHrUMog
 
