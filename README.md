@@ -39,6 +39,9 @@ https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/
 # Rookies Dojo
 https://www.youtube.com/channel/UC5gM-GHriu3qw7kKK1wl8zA/playlists
 
+# Yun William Yu
+https://www.youtube.com/c/YunWilliamYu/playlists
+
 #
 https://lakens.github.io/statistical_inferences/
 
