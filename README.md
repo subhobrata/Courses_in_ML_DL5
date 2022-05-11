@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Data Mining und Künstliche Intelligenz
+https://www.youtube.com/c/K%C3%BCnstlicheIntelligenz/playlists
+
 #
 https://projects.iq.harvard.edu/stat110/home
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
