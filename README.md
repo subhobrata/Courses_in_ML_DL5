@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Foundations of Machine Learning
+https://emtiyaz.github.io/teaching/oist_B39_2022/main.html
+
 # Data Mining und Künstliche Intelligenz
 https://www.youtube.com/c/K%C3%BCnstlicheIntelligenz/playlists
 
