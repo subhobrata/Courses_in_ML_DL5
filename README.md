@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# NLP+CSS 201 Tutorials
+https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/
+
 # Foundations of Machine Learning
 https://emtiyaz.github.io/teaching/oist_B39_2022/main.html
 
