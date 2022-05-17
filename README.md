@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Course: Deep Probabilistic Models
+https://robsalomone.com/course-deep-probabilistic-models/
+
 # NLP+CSS 201 Tutorials
 https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/
 
