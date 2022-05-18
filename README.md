@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://sites.google.com/view/nsysu-dvlab/courses/computer-vision-2022
+
 # Course: Deep Probabilistic Models
 https://robsalomone.com/course-deep-probabilistic-models/
 
