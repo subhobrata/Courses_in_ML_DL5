@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# STAT 5660 Statistical Data Analytics
+https://sites.google.com/a/georgiasouthern.edu/stephen-carden/teaching/stat-5660-statistical-data-analytics
+
 #
 https://sites.google.com/view/nsysu-dvlab/courses/computer-vision-2022
 
