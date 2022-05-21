@@ -1,6 +1,13 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+Probability: https://web.stanford.edu/class/cs109/
+AI: https://stanford-cs221.github.io/spring2022/
+Machine Learning: https://cs229.stanford.edu
+Deep Learning: https://cs230.stanford.edu
+NLP: https://web.stanford.edu/class/cs224n/
+Reinforcement Learning: https://web.stanford.edu/class/cs234/
+
 # Machine Learning University (MLU) 
 https://mlu-explain.github.io/
 
