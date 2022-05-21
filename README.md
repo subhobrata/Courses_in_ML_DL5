@@ -1,6 +1,11 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Cornell CS4780 SP17 by Kilian Weinberge
+http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/
+http://www.cs.cornell.edu/courses/cs4780/2018fa/
+https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+
 # Statistics of DOOM
 https://www.youtube.com/c/StatisticsofDOOM/playlists
 https://statisticsofdoom.com/page/human-language-modeling/
