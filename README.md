@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Statistics of DOOM
+https://www.youtube.com/c/StatisticsofDOOM/playlists
+
 #
 https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 
