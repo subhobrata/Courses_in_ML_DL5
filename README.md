@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# NLP Annotation Project
+https://people.ischool.berkeley.edu/~dbamman/nlpap.html
+
 # Cornell CS4780 SP17 by Kilian Weinberge
 http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/
 http://www.cs.cornell.edu/courses/cs4780/2018fa/
