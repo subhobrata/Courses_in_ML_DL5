@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
+
 Probability: https://web.stanford.edu/class/cs109/
 AI: https://stanford-cs221.github.io/spring2022/
 Machine Learning: https://cs229.stanford.edu
