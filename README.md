@@ -3,6 +3,7 @@ Courses_in_ML_DL5
 
 # Statistics of DOOM
 https://www.youtube.com/c/StatisticsofDOOM/playlists
+https://statisticsofdoom.com/page/human-language-modeling/
 
 #
 https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
