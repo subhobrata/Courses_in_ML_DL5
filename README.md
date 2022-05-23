@@ -1,6 +1,15 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://fa.bianp.net/teaching/2018/eecs227at/
+http://people.csail.mit.edu/dsontag/courses/ml12/
+
+#
+https://skim.math.msstate.edu/LectureNotes/Machine_Learning_Lecture.pdf
+https://www.youtube.com/channel/UCmRbK4vlGDht-joOQ5g0J2Q/playlists
+
+
 # NLP Annotation Project
 https://people.ischool.berkeley.edu/~dbamman/nlpap.html
 
