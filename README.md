@@ -1,6 +1,10 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Statistical Machine Learning (Summer term 2020)
+https://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/
+https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC
+
 #
 https://fa.bianp.net/teaching/2018/eecs227at/
 http://people.csail.mit.edu/dsontag/courses/ml12/
