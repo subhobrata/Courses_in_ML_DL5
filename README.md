@@ -1,6 +1,10 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Statistical Rethinking
+https://xcelab.net/rm/statistical-rethinking/
+https://shmuma.github.io/rethinking-2ed-julia/
+
 # Statistical Machine Learning (Summer term 2020)
 https://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/
 https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC
