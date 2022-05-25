@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2
+
 # Statistical Rethinking
 https://xcelab.net/rm/statistical-rethinking/
 https://shmuma.github.io/rethinking-2ed-julia/
