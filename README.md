@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://interpretable-ml-class.github.io/
+
+#
 https://cs182sp21.github.io/
 
 #
