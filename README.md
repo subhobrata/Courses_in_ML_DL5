@@ -5,6 +5,7 @@ Courses_in_ML_DL5
 https://dlsyscourse.org/lectures/
 
 #
+https://andrejristeski.github.io/10707-S21/syllabus.html
 https://andrejristeski.github.io/10707-S21/
 
 #
