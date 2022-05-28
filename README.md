@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Deep-Learning-Book-Chapter-Summaries
+https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries
+
 #
 https://dlsyscourse.org/lectures/
 
