@@ -1,6 +1,12 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://cs182sp21.github.io/
+
+#
+https://www.coursicle.com/harvard/courses/STAT/195/
+
 # Deep-Learning-Book-Chapter-Summaries
 https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries
 
