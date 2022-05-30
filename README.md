@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Ghislain Fourny's lectures
+https://www.youtube.com/c/GhislainFournysLectures/playlists
+
 #
 https://interpretable-ml-class.github.io/
 
