@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ
+
 # Ghislain Fourny's lectures
 https://www.youtube.com/c/GhislainFournysLectures/playlists
 
