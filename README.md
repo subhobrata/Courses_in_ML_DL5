@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://bipinkrishnan.github.io/ml-recipe-book/about.html
+
+#
 https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ
 
 # Ghislain Fourny's lectures
