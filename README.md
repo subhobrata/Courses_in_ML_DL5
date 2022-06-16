@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/
+
+#
 https://bipinkrishnan.github.io/ml-recipe-book/about.html
 
 #
