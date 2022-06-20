@@ -2,6 +2,11 @@
 Courses_in_ML_DL5
 
 #
+https://ds100.org/su19/syllabus
+https://olebo.github.io/textbook/
+https://www.textbook.ds100.org/intro.html
+
+#
 https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/
 
 #
