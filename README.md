@@ -2,6 +2,9 @@
 Courses_in_ML_DL5
 
 #
+https://fleuret.org/dlc/#lecture-13
+
+#
 https://ds100.org/su19/syllabus
 https://olebo.github.io/textbook/
 https://www.textbook.ds100.org/intro.html
