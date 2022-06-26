@@ -2,6 +2,12 @@
 Courses_in_ML_DL5
 
 #
+All What you Need to Know about Vision Transformers. Check out my Advance Computer Vision Course:
+https://crcv.ucf.edu/courses/cap6412-spring-2022/schedule/
+We discussed all relevant papers. Youtube video presentations:
+https://www.crcv.ucf.edu/courses/cap6412-spring-2022/schedule/
+
+#
 https://fleuret.org/dlc/#lecture-13
 
 #
