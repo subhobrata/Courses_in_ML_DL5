@@ -2,6 +2,10 @@
 Courses_in_ML_DL5
 
 #
+https://fpcv.cs.columbia.edu/
+https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists
+
+#
 https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/
 
 #
