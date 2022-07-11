@@ -2,6 +2,10 @@
 Courses_in_ML_DL5
 
 #
+https://www.youtube.com/playlist?list=PL3xCBlatwrsU_HKkwf6RlxvErUHu6FPVV
+https://www.cse.iitm.ac.in/~rupesh/events/gpu2022/
+
+#
 https://fpcv.cs.columbia.edu/
 https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists
 
