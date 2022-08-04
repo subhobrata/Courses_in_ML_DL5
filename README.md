@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# "Understanding Deep Learning" and will be published by MIT press. A partial draft is now available at:
+https://udlbook.github.io/udlbook/
+
 #
 https://www.youtube.com/playlist?list=PL3xCBlatwrsU_HKkwf6RlxvErUHu6FPVV
 https://www.cse.iitm.ac.in/~rupesh/events/gpu2022/
