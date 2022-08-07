@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# CS/ECE 561 - Probability and Info Theory in Machine Learning
+https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913
+
 # Machine Learning Foundations
 http://www.ricardocalix.com/MLfoundations/MLfoundations.htm
 
