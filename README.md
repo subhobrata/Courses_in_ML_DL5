@@ -1,6 +1,15 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# Machine Learning Foundations
+http://www.ricardocalix.com/MLfoundations/MLfoundations.htm
+
+# ITS 520 - Applied Machine Learning (with PyTorch)
+http://www.ricardocalix.com/pytorchML/course1.htm
+
+# Introduction to Optimization
+https://laurentlessard.com/teaching/524-intro-to-optimization/
+
 # "Understanding Deep Learning" and will be published by MIT press. A partial draft is now available at:
 https://udlbook.github.io/udlbook/
 
