@@ -1,6 +1,9 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+# 𝗧𝗵𝗲 𝗡𝗟𝗣 𝗣𝗮𝗻𝗱𝗲𝗰𝘁
+https://github.com/ivan-bilan/The-NLP-Pandect
+
 # CS/ECE 561 - Probability and Info Theory in Machine Learning
 https://mediaspace.wisc.edu/channel/CS_ECE%2B561%2B-%2BProbability%2Band%2BInfo%2BTheory%2Bin%2BMachine%2BLearning/191748913
 
