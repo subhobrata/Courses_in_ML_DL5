@@ -1,6 +1,21 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+#
+https://ckaestne.github.io/seai/S2020/#course-content
+
+#
+http://www.cs.cmu.edu/~mgormley/courses/10418/schedule.html
+
+#
+https://www.math.ucdavis.edu/~deloera/TEACHING/VIDEOS/
+
+#
+https://video.ucdavis.edu/channel/MATH168-+Mathematical+Optimization/193424153
+
+#
+
+
 # 𝗧𝗵𝗲 𝗡𝗟𝗣 𝗣𝗮𝗻𝗱𝗲𝗰𝘁
 https://github.com/ivan-bilan/The-NLP-Pandect
 
