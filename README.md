@@ -1,7 +1,10 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
-#
+# Video lectures, Cornell ORIE 4741 / 5741 Learning with Big Messy Data fall 2020, by Madeleine Udell
+https://people.orie.cornell.edu/mru8/orie4741/lectures.html
+ 
+# Video lectures, CMU 17-445 / 10-645  Software Engineering for AI-Enabled Systems summer 2020, by Christian Kästner
 https://ckaestne.github.io/seai/S2020/#course-content
 
 #
