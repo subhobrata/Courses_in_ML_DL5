@@ -1,6 +1,12 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+Video lectures, UC Irvine CS 276 Reasoning in Graphical Models fall 2021, by Rina Dechter
+https://www.ics.uci.edu/~dechter/courses/ics-276/fall-2021/
+
+Video lectures, UC Irvine CS 275 Constraint Networks fall 2020, by Rina Dechter
+https://www.ics.uci.edu/~dechter/courses/ics-275/fall-2020/
+
 Video lectures, Cornell ORIE 4580 / 5580 Simulation Modeling and Analysis, ORIE 5581 Monter Carlo Simulation fall 2020, by Sid Banarjee
 https://vod.video.cornell.edu/channel/Monte%2BCarlo%2BSimulation%2B%2528ORIE%2B4580%2B-%2BFall%2B2020%2529/251110893
 https://sidbanerjee.orie.cornell.edu/courses/orie4580f20/
