@@ -1,6 +1,10 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+dlsyscourse.org
+Deep Learning Systems course
+https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
+
 Video lectures, UC Irvine CS 276 Reasoning in Graphical Models fall 2021, by Rina Dechter
 https://www.ics.uci.edu/~dechter/courses/ics-276/fall-2021/
 
