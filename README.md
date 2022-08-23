@@ -5,6 +5,11 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+
+https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html
+https://www.youtube.com/playlist?list=PLofp2YXfp7Tbk88uH4jejfXPd2OpWuSLq
+https://www.cs.utexas.edu/~gdurrett/teaching.shtml
+
 Video lectures, UC Irvine CS 276 Reasoning in Graphical Models fall 2021, by Rina Dechter
 https://www.ics.uci.edu/~dechter/courses/ics-276/fall-2021/
 
