@@ -5,6 +5,8 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+Approximation Algorithms, Copenhagen University, Spring 2021
+https://rasmuspagh.net/courses/APX21/
 
 https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html
 https://www.youtube.com/playlist?list=PLofp2YXfp7Tbk88uH4jejfXPd2OpWuSLq
