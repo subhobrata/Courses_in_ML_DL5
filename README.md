@@ -7,6 +7,11 @@ https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
 https://fpcv.cs.columbia.edu/
 
+https://boazbk.github.io/mltheoryseminar/cs229br.html
+
+Lesa Hoffman
+https://www.youtube.com/channel/UCHi-jk4KXUJN7WXeABtL4Cg/playlists
+
 Approximation Algorithms, Copenhagen University, Spring 2021
 https://rasmuspagh.net/courses/APX21/
 
