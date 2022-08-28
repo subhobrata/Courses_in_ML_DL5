@@ -5,8 +5,30 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+ETH Zurich Fundamentals of Mathematical Statistics fall 2021, by Sara van de Geer
+https://video.ethz.ch/lectures/d-math/2021/autumn/401-3621-00L.html
+
+ETH Zurich Numerical Methods for CSE fall 2015, by Ralf Hiptmair
+https://video.ethz.ch/lectures/d-math/2015/autumn/401-0663-00L.html
+
+ETH Zurich Numerical Methods for Partial Differential Equations spring 2016, by Ralf Hiptmair
+https://video.ethz.ch/lectures/d-math/2016/spring/401-0674-00L.html
+
+ETH Zurich Data Modelling and Databases spring 2022, by Ce Zhang
+https://video.ethz.ch/lectures/d-infk/2022/spring/252-0063-00L.html
+
+ETH Zurich Computational Semantics for Natural Language Processing spring 2022, by Mrinmaya Sachan
+https://video.ethz.ch/lectures/d-infk/2022/spring/263-5000-00L.html
+
+ETH Zurich Deep Learning fall 2019, by Thomas Hofmann
+https://video.ethz.ch/lectures/d-infk/2019/autumn/263-3210-00L.html
+
+ETH Zurich Advanced Machine Learning fall 2019, by Joachim M. Buhmann
+https://video.ethz.ch/lectures/d-infk/2019/autumn/252-0535-00L.html
+
 https://fpcv.cs.columbia.edu/
 
+Harvard University CS 229br Advanced Topics in the theory of machine learning spring 2021, by Boaz Barak
 https://boazbk.github.io/mltheoryseminar/cs229br.html
 
 Lesa Hoffman
