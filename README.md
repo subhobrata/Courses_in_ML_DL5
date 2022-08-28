@@ -5,6 +5,9 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+https://www.ics.uci.edu/~dechter/courses/ics-295cr/spring-2021/
+https://www.youtube.com/channel/UCqza2pfAex9J480BFDMKLsg/playlists
+
 ETH Zurich Fundamentals of Mathematical Statistics fall 2021, by Sara van de Geer
 https://video.ethz.ch/lectures/d-math/2021/autumn/401-3621-00L.html
 
