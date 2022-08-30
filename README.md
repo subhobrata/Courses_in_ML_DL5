@@ -5,6 +5,9 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+ETH Zurich Statistical Learning Theory spring 2019, by Joachim M. Buhmann
+https://video.ethz.ch/lectures/d-infk/2019/spring/252-0526-00L.html
+
 https://www.ics.uci.edu/~dechter/courses/ics-295cr/spring-2021/
 https://www.youtube.com/channel/UCqza2pfAex9J480BFDMKLsg/playlists
 
