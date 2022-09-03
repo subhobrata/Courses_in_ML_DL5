@@ -5,6 +5,9 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+Machine Learning in Production / AI Engineering (17-445/17-645/17-745/11-695)
+https://ckaestne.github.io/seai/
+
 ETH Zurich Information Systems for Engineers - Fall 2021, by Ghislain Fourny
 https://www.youtube.com/playlist?list=PLs5KPrcFtb0VaveUT-vsBswwl7RWvFeNf
 
