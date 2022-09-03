@@ -5,6 +5,18 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+ETH Zurich Information Systems for Engineers - Fall 2021, by Ghislain Fourny
+https://www.youtube.com/playlist?list=PLs5KPrcFtb0VaveUT-vsBswwl7RWvFeNf
+
+ETH Zurich Information Retrieval Spring 2022, by Ghislain Fourny
+https://www.youtube.com/playlist?list=PLs5KPrcFtb0UtG4ILOX27gDbUivxW5QUT
+
+ETH Zurich Big Data for Engineers Spring 2022, by Ghislain Fourny
+https://www.youtube.com/playlist?list=PLs5KPrcFtb0XU-muVd8nkokMXNJ1GFx7e
+
+ETH Zurich Big Data Fall 2021, by Ghislain Fourny
+https://www.youtube.com/playlist?list=PLs5KPrcFtb0VFulL1SbviJBIMi9pDKYZ2
+
 ETH Zurich Statistical Learning Theory spring 2019, by Joachim M. Buhmann
 https://video.ethz.ch/lectures/d-infk/2019/spring/252-0526-00L.html
 
