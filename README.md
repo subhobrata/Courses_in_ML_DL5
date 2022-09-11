@@ -1,9 +1,16 @@
 # Courses_in_ML_DL5
 Courses_in_ML_DL5
 
+
+
 dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
+
+ETH Zurich Mathematics of Data Science spring 2021, by Afonso S. Bandeira
+ETH Zurich Mathematics of Machine Learning (first half) spring 2021, by Afonso S. Bandeira
+https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp
+https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL
 
 Machine Learning in Production / AI Engineering (17-445/17-645/17-745/11-695)
 https://ckaestne.github.io/seai/
