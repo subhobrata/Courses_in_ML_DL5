@@ -7,6 +7,12 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+UC Berkeley EE 290-005 Integrated Perception, Learning, and Control spring 2021, by Yi Ma, Jitendra Malik, Shankar Sastry, Claire Tomlin
+https://pages.github.berkeley.edu/ee290-005/sp21-site/calendar/
+
+UC Berkeley EE 106a / 206a Introduction to Robotics fall 2019, by Shankar Sastry
+https://ucb-ee106.github.io/ee106a-fa19/calendar/
+
 ETH Zurich Mathematics of Data Science spring 2021, by Afonso S. Bandeira
 ETH Zurich Mathematics of Machine Learning (first half) spring 2021, by Afonso S. Bandeira
 https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp
