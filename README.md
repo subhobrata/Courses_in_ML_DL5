@@ -7,6 +7,23 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+ CMU 10 708 Probabilistic Graphical Models spring 2018, by Kayhan Batmanghelich
+ https://www.youtube.com/channel/UCBzyxSQ13mdS4vNCuYPuRWg/videos
+
+https://inst.eecs.berkeley.edu/~eecs151/fa22/
+
+https://inst.eecs.berkeley.edu/~eecs251b/sp22/
+
+https://inst.eecs.berkeley.edu/~eecs151/fa22/
+
+CMU 10 708 Probabilistic Graphical Models spring 2017, 2019, 2020 by Eric Xing
+https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html
+https://www.cs.cmu.edu/~epxing/Class/10708-19/lectures/
+https://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html
+
+University of Oxford Scientific Computing for DPhil Students 2019, by Nick Trefethen
+https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students
+
 
 UIUC CS 554 / CSE 512 Parallel Numerical Algorithms Fall 2017, by Edgar Solomonik 
 https://solomonik.cs.illinois.edu/teaching/cs554/index.html
