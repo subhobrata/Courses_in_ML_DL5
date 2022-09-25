@@ -7,6 +7,17 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+
+UIUC CS 554 / CSE 512 Parallel Numerical Algorithms Fall 2017, by Edgar Solomonik 
+https://solomonik.cs.illinois.edu/teaching/cs554/index.html
+
+UC Berkeley CS 267 Applications of Parallel Computers spring 2021, by Kathy Yelick, Aydin Buluc, Jim Demmel
+https://sites.google.com/lbl.gov/cs267-spr2021
+
+
+UC Berkeley EE 290-2 Hardware for Machine Learning spring 2021, by Sophia Shao
+https://inst.eecs.berkeley.edu/~ee290-2/sp21/
+
 UC Berkeley EE 290-005 Integrated Perception, Learning, and Control spring 2021, by Yi Ma, Jitendra Malik, Shankar Sastry, Claire Tomlin
 https://pages.github.berkeley.edu/ee290-005/sp21-site/calendar/
 
