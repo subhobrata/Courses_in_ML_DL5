@@ -7,6 +7,9 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+NOC:Applied Accelerated Artificial Intelligence, IIT Madras
+https://nptel.ac.in/courses/106106238
+
  CMU 10 708 Probabilistic Graphical Models spring 2018, by Kayhan Batmanghelich
  https://www.youtube.com/channel/UCBzyxSQ13mdS4vNCuYPuRWg/videos
 
