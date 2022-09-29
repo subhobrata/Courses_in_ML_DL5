@@ -7,6 +7,32 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+CS324 - Large Language Models
+https://stanford-cs324.github.io/winter2022/
+
+CS25: Transformers United
+https://web.stanford.edu/class/cs25/
+
+Advanced Natural Language Processing
+https://people.cs.umass.edu/~miyyer/cs685/
+
+COS 597G (Fall 2022): Understanding Large Language Models
+https://www.cs.princeton.edu/courses/archive/fall22/cos597G/
+
+COMP790: (Deep) Learning with Limited Labeled Data (DL3D)
+https://github.com/craffel/dl3d-seminar
+
+CSCI 601.771: Self-supervised Statistical Models
+https://self-supervised.cs.jhu.edu/
+
+COMP790-101: Large Language Models
+https://github.com/craffel/llm-seminar/
+
+Course Title: CS 6604: Data Challenges in Machine Learning (Spring 2021)
+https://isminoula.github.io/cs6604SP21/
+
+
+
 NOC:Applied Accelerated Artificial Intelligence, IIT Madras
 https://nptel.ac.in/courses/106106238
 
