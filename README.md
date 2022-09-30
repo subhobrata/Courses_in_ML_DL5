@@ -7,6 +7,48 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+University of Freiburg Numerical Optimization ws 2015, 2020, by Moritz Diehl
+https://www.syscop.de/teaching/ws2020/numerical-optimization
+https://www.syscop.de/teaching/ws2015/numopt
+
+University of Freiburg Modeling and System Identification ws 2017, 2018, 2019, 2020, 2021, by Moritz Diehl
+https://www.syscop.de/teaching/ws2017/msi
+https://www.syscop.de/teaching/ws2018/modeling-and-system-identification
+https://www.syscop.de/teaching/ws2019/msi
+https://www.syscop.de/teaching/ws2020/msi
+https://www.syscop.de/teaching/ws2021/modeling-and-system-identification
+
+University of Freiburg Numerical Optimal Control ss 2017, 2021, by Moritz Diehl
+https://www.syscop.de/teaching/ss2017/numerical-optimal-control
+https://www.syscop.de/teaching/ss2021/numerical-optimal-control
+
+University of Freiburg Model Predictive Control and Reinforcement Learning ss 2021, by Moritz Diehl, Joschka Boedecker, Sebastien Gros, Sergey Levine
+https://www.syscop.de/teaching/ss2021/model-predictive-control-and-reinforcement-learning
+
+University of Freiburg State Space Control Systems ss 2019, by Moritz Diehl, Dang Doan
+https://www.syscop.de/teaching/ss2019/state-space-control-systems
+
+University of Freiburg Wind Energy Systems ss 2018, 2020, 2022, by Moritz Diehl
+https://www.syscop.de/teaching/ss2020/wind-energy-systems
+https://www.syscop.de/teaching/ss2022/wind-energy-systems
+https://www.syscop.de/teaching/ss2018/wind-energy-systems
+
+University of Cambridge Mobile Robot Systems, by Amanda Prorok
+https://www.youtube.com/playlist?list=PLaTKfS3-bDpDyOwrxLcQRGxY9XJw33ANo
+
+ University of Freiburg Introduction to Mobile Robotics SS 2014,2015, 2016, 2017, by Wolfram Burgard, Maren Bennewitz, Gian Diego Tipaldi, Michael Ruhnke, Daniel Büscher
+ http://ais.informatik.uni-freiburg.de/teaching/ss14/robotics/
+ http://ais.informatik.uni-freiburg.de/teaching/ss17/robotics/
+ http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/
+ http://ais.informatik.uni-freiburg.de/teaching/ss15/robotics/
+ 
+ University of Freiburg Robot Mapping WS 2014, 2015, 2016, 2017, by  Gian Diego Tipaldi, Luciano Spinello, Wolfram Burgard, Daniel Büscher
+ http://ais.informatik.uni-freiburg.de/teaching/ws14/mapping/
+ http://ais.informatik.uni-freiburg.de/teaching/ws15/mapping/
+ http://ais.informatik.uni-freiburg.de/teaching/ws16/mapping/
+ http://ais.informatik.uni-freiburg.de/teaching/ws17/mapping/
+
+
 CS324 - Large Language Models
 https://stanford-cs324.github.io/winter2022/
 
