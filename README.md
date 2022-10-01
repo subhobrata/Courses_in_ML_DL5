@@ -7,6 +7,24 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+CMU 16 715 Advanced Robot Dynamics and Simulation fall 2022, by Zac Manchester
+https://github.com/dynamics-simulation-16-715
+https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY
+
+
+CMU 16 745 Optimal Control and Reinforcement Learning spring 2022, by Zac Manchester
+https://www.youtube.com/playlist?list=PLZnJoM76RM6Iaf59ICcU9-DzztGZvK_52
+
+CMU 16 899 Adaptive Control and Reinforcement Learning fall 2020, by  Changliu Liu
+http://www.cs.cmu.edu/~cliu6/acrl-fall20.html
+https://www.youtube.com/playlist?list=PLZL5VXraKdz-0zByoPNzNTqSirR4veU8z
+
+MIT 2.160 Identification, Estimation, and Learning fall 2020, by Harry Asada
+https://www.youtube.com/playlist?list=PLDHxS-d2mJqup7SwhgQjqCkXiDKo4rcL6
+https://mit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22e673193a-a503-4485-819f-ac32016cbc1b%22
+
+
+
 University of Freiburg Numerical Optimization ws 2015, 2020, by Moritz Diehl
 https://www.syscop.de/teaching/ws2020/numerical-optimization
 https://www.syscop.de/teaching/ws2015/numopt
