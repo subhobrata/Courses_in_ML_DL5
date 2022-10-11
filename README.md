@@ -7,6 +7,8 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+https://k-means-explorable.vercel.app/
+
 CMU 16 715 Advanced Robot Dynamics and Simulation fall 2022, by Zac Manchester
 https://github.com/dynamics-simulation-16-715
 https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY
