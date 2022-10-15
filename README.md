@@ -7,6 +7,13 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+UvA Introduction to Information Theory fall 2019, by Michael Walter
+https://qi.ruhr-uni-bochum.de/iit19/
+https://biaslab.github.io/teaching/archive/bmlip-2021/
+
+TUe Bayesian Machine Learning and Information Processing 2021, 2022, by Bert de Vries
+https://www.youtube.com/playlist?list=PLkDDgjnfkmCH4zq9_ul-KaTsk-1j1EVEo
+
 https://k-means-explorable.vercel.app/
 
 CMU 16 715 Advanced Robot Dynamics and Simulation fall 2022, by Zac Manchester
