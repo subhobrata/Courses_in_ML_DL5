@@ -7,6 +7,16 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+Parallel Computer Architecture and Programming
+http://15418.courses.cs.cmu.edu/spring2016/lectures
+
+CMU 15 816 Linear Logic spring 2012, by Frank Pfenning
+https://www.cs.cmu.edu/~fp/courses/15816-s12/schedule.html
+
+
+The Turing Data Science Classes 2018
+https://www.youtube.com/playlist?list=PLuD_SqLtxSdWcl2vx4K-0mSflRRLyfwlJ
+
 UvA Introduction to Information Theory fall 2019, by Michael Walter
 https://qi.ruhr-uni-bochum.de/iit19/
 https://biaslab.github.io/teaching/archive/bmlip-2021/
