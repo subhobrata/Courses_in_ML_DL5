@@ -7,6 +7,47 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+UC Irvine CS 276 Reasoning in Graphical Models spring 2018, by Rina Dechter
+https://www.ics.uci.edu/~dechter/courses/ics-276/spring-18/
+
+ UC Irvine Math 4 Math for Economists Summer 2013, by Jason Kronewetter
+ https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n8yvjW0DAxRAmou8EOzbpD
+ 
+ UC Irvine Math 176 Math of Finance 2014, by Donald Saari
+ https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7lTg3D3k3TSj8ApXpT-b9kW
+ 
+ UC Irvine Physics 50 Math Methods spring 2014, by Michael Dennin
+ https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7nHzkddoGu8Qov2rLweTPyk
+ 
+ UC Irvine Math 131A Introduction to Probability and Statistics summer 2013, by Michael Cranston
+ https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J
+ 
+ UC Irvine Math 131B Introduction to Probability and Statistics summer 2013, by Michael Cranston
+ https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq
+ 
+ UC Irvine Math 113B Mathematical Biology winter 2014, by German A. Enciso
+ https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7lnGZ7fkn503y_7U4rrJ-Se
+ 
+ UW Fish 507 Applied Time Series Analysis spring 2019, 2021, by Mark Scheuerell, Elizabeth (Eli) Holmes, Eric Ward
+ https://atsa-es.github.io/atsa/lectures.html
+ https://www.youtube.com/playlist?list=PLA5yNsxyt7sADlCCh3PZ5S4e1kEOSj9jq
+ 
+ University of Alberta Stat 479 Time Series Analysis winter 2020, by Adam Kashlak
+ https://www.youtube.com/playlist?list=PL5ND7pZq8F20u5aoYyI24dNHXfOrM80yA
+ https://sites.ualberta.ca/~kashlak/data/stat479.pdf
+ 
+ University of Tübingen S411 Advanced Time Series Analysis in Economics and Finance spring 2020, by Joachim Grammig
+ https://timms.uni-tuebingen.de/tp/UT_20201102_001_ws2021atsa_0001
+ 
+ Financial Time Series Modeling and Forecasting 2013, by Myung-Jig Kim
+ https://www.youtube.com/playlist?list=PLSN_PltQeOyiG_wobD2ZzqX5lEFF1oJQk
+ 
+ Davidson CSC 381: Deep Learning, Fall 2022
+ https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9
+ 
+ Deep Foundations
+ https://www.youtube.com/playlist?list=PLVYTJAasVdWwqIOgf-Lz7GPAgoKBADNyi
+
 Parallel Computer Architecture and Programming
 http://15418.courses.cs.cmu.edu/spring2016/lectures
 
