@@ -7,6 +7,10 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+UIUC CS / ECE 434 Mobile Computing Algorithms and Applications spring 2020, 2021, by  Romit Roy Choudhury
+https://courses.grainger.illinois.edu/cs434/sp2021/
+https://courses.grainger.illinois.edu/cs434/sp2020/
+
 UC Irvine CS 276 Reasoning in Graphical Models spring 2018, by Rina Dechter
 https://www.ics.uci.edu/~dechter/courses/ics-276/spring-18/
 
