@@ -3,6 +3,8 @@ Courses_in_ML_DL5
 
 https://www.explainpaper.com/
 
+https://twitter.com/ujjwalscript/status/1588056009137827840?t=myZbTsa7NymiBcTTEcg0gQ&s=08
+
 dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
