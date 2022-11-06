@@ -9,6 +9,10 @@ dlsyscourse.org
 Deep Learning Systems course
 https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
 
+ Imperial College London Math 2 Part B Probability and Statistics for Engineers fall 2019, by Bruno Clerckx
+http://www.ee.ic.ac.uk/bruno.clerckx/EE_fitted.pdf
+https://www.youtube.com/playlist?list=PL3nE1Yo1b4CpcEOgS3s80YUys7nGRqVPM
+
 UIUC CS / ECE 434 Mobile Computing Algorithms and Applications spring 2020, 2021, by  Romit Roy Choudhury
 https://courses.grainger.illinois.edu/cs434/sp2021/
 https://courses.grainger.illinois.edu/cs434/sp2020/
